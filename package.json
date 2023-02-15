@@ -1,0 +1,14 @@
+{
+  "name": "wechat-nodejs",
+  "version": "1.0.0",
+  "description": "WebSocket Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xh",
+  "license": "ISC",
+  "dependencies": {
+    "nodejs-websocket": "^1.7.2"
+  }
+}
